@@ -9,7 +9,7 @@ import org.openqa.selenium.support.PageFactory;
 import com.sathya.qa.base.TestBase;
 
 /*
- * author: Karthikeyan
+ * author: S Karthikeyan
  * This page for Test CCTV page in Sathya Website
  */
 
